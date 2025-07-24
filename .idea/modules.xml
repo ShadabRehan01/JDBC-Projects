@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/#JDBC Projects.iml" filepath="$PROJECT_DIR$/.idea/#JDBC Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banking_Management_System_JDBC_Project 2/Banking_Management_System_JDBC_Project 2.iml" filepath="$PROJECT_DIR$/Banking_Management_System_JDBC_Project 2/Banking_Management_System_JDBC_Project 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hospital_Management_System_JDBC_Project 1/Hospital_Management_System_JDBC_Project 1.iml" filepath="$PROJECT_DIR$/Hospital_Management_System_JDBC_Project 1/Hospital_Management_System_JDBC_Project 1.iml" />
+    </modules>
+  </component>
+</project>

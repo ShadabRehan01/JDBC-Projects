@@ -128,9 +128,9 @@ CREATE TABLE Transaction (
 
 ## 👨‍💻 Author
 
-Author - **Shadab Rehan**  
-  
-
+Shadab Rehan
+📍 India
+🔗 LinkedIn Profile - https://www.linkedin.com/in/shadabrehan
 ---
 
 ## 📌 Note
